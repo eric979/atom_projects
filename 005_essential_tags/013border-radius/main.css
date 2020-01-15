@@ -1,0 +1,28 @@
+div {
+  width: 100px;
+  height: 100px;
+  border: 1px solid red;
+  border-radius: 45%;
+  background-image: url("../challenge_one/puppy.jpeg");
+  background-size: cover;
+  background-repeat: no-repeat;
+
+}
+
+img {
+border: 10px groove orange;
+border-radius: 50%
+
+}
+
+.dogone{
+  border: 5px dashed red;
+}
+
+.dogtwo {
+  border: 10px dotted blue;
+}
+
+.dogthree {
+  border: 100px double green;
+}
