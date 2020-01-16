@@ -1,0 +1,31 @@
+img {
+  width: 350px;
+  height: 280px;
+  border: 20px groove yellow;
+  border-radius: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: block;
+  margin: 0 auto;
+  box-sizing: border-box;
+}
+
+body{
+  width: 500px;
+  height: 800px;
+  background-color: green;
+  border: 8px solid black;
+  padding: 15px;
+  margin: 0 auto;
+}
+
+html {
+  background-color: blue;
+}
+
+.header_one{
+  color: blue;
+}
+.header_two{
+  color: red;
+}
