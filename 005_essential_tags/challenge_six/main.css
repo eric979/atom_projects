@@ -1,0 +1,26 @@
+div {
+  width: 4.5rem;
+  height: 3rem;
+  border: 2px solid black;
+  border-radius: 20px;
+  display: inline-block;
+
+
+
+}
+
+.red_div {
+background-color: red;
+}
+
+.blue_div {
+background-color: blue;
+}
+
+.yellow_div {
+background-color: yellow;
+}
+
+.green_div {
+background-color: green;
+}
