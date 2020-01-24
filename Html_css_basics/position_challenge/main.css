@@ -1,0 +1,17 @@
+html, body, head, footer {
+  margin: 0;
+  border: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+}
+
+
+footer {
+  position: fixed;
+  bottom: 0;
+  height: 40px;
+  width: 100%;
+  background-color: orange;
+
+}

@@ -1,0 +1,10 @@
+ul {
+flex-flow: column nowrap;
+align-items: flex-start;
+justify-content: space-around;
+}
+
+body{
+  display: flex;
+  flex-flow: row nowrap;
+}
