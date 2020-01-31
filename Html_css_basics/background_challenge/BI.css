@@ -1,0 +1,12 @@
+body {
+
+}
+
+div{
+  background-image: url(https://santanderconsumerusa.com/wp-content/uploads/2019/02/022019-SC-Best-five-cars-of-2019-They-are-if-you-ask-Cars.com_.jpg?w=640);
+  background-repeat: no-repeat;
+  background-size: contain;
+  border: 2px solid red;
+  width: 100px;
+  height: 100px;
+}
