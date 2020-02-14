@@ -1,0 +1,60 @@
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   aria-hidden="true"
+   focusable="false"
+   data-prefix="fab"
+   data-icon="amazon"
+   class="svg-inline--fa fa-amazon fa-w-14"
+   role="img"
+   viewBox="0 0 448 512"
+   version="1.1"
+   id="svg66"
+   sodipodi:docname="amazon-brands.svg"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06">
+  <metadata
+     id="metadata72">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs70" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="710"
+     id="namedview68"
+     showgrid="false"
+     inkscape:zoom="0.4609375"
+     inkscape:cx="-210.98305"
+     inkscape:cy="256"
+     inkscape:window-x="0"
+     inkscape:window-y="1"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg66" />
+  <path
+     d="m 257.85699,152.34916 c -43.86535,1.76949 -152.85189,15.23729 -154.82768,115.50847 -2.12106,107.64406 122.26311,112.06781 164.31497,42.4678 5.65249,10.02712 31.13396,36.86441 39.86391,46.00679 l 52.2053,-55.05086 c 0,0 -28.58024,-24.87119 -28.04755,-51.90508 l 2.84939,-144.60678 c 0.49008,-24.8712 -20.45605,-80.90509 -99.47691,-80.90509 -79.20085,0 -122.29667,54.06779 -123.25164,102.53221 l 66.01899,6.68474 c 15.629,-48.661027 49.73937,-48.661027 49.73937,-48.661027 36.63233,-0.0983 31.3731,29.294927 30.61185,67.928827 z m -1.68136,85.32881 c -1.54964,78.64407 -77.09801,66.84746 -76.11399,16.90848 0.91429,-46.4 46.54879,-55.73899 76.90043,-56.82034 z m 119.23425,160.7288 c -7.12378,9.83052 -64.2985,65.86442 -158.34951,65.86442 -94.05102,0 -164.666804,-70.28814 -186.145614,-99.28814 -5.97091,-7.5695 1.1189,-11.10847 5.11083,-8.15932 65.108724,43.74576 166.739974,115.80338 334.666694,29.78644 6.82173,-3.63729 11.93135,1.9661 4.7176,11.7966 z m 35.77775,2.16272 c -6.1561,15.5322 -14.91926,26.34576 -19.68065,30.47458 -5.03722,4.42372 -8.6024,2.65424 -5.77648,-3.73559 2.82591,-6.38984 18.27093,-45.71186 12.49548,-54.06781 -5.68926,-8.15932 -33.21705,-4.22712 -43.13845,-3.14575 -9.73949,0.98305 -11.73887,1.9661 -12.59433,-0.29492 -1.95962,-5.60338 19.83045,-15.23728 34.08934,-17.20338 14.16502,-1.7695 36.91587,-0.78644 41.29004,5.60337 3.23125,5.01357 -0.52493,26.64068 -6.68495,42.3695 z"
+     id="path64"
+     inkscape:connector-curvature="0"
+     style="fill:#0b0b04;fill-opacity:1;stroke-width:0.99999988;opacity:1" />
+</svg>

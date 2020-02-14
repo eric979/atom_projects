@@ -2,6 +2,52 @@ html {
     font-family: 'Cantarell', sans-serif;
     color: whitesmoke;
 }
+header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 2.8rem;
+  width: 100%;
+  background-color: rgb(0,0,0,0.6);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+i {
+ font-size: 1.5rem;
+ white: black;
+ margin: 0 3px;
+}
+
+i:hover {
+  color: blue;
+  cursor: pointer;
+}
+
+
+#container1{
+
+  height: 2rem;
+  width: 10rem;
+  text-align: center;
+  font-size: 1.2rem;
+  display: flex;
+  justify-content:space-around;
+  align-items: center;
+  margin: 1rem;
+
+}
+
+#container2{
+
+  height: 2rem;
+  width: 10rem;
+  margin: 0 1rem;
+  display: flex;
+  justify-content:space-around;
+  align-items: center;
+}
 
 #idx-atf {
     /* layout */
@@ -21,7 +67,7 @@ html {
 }
 
 #idx-atf > div {
-    height: 90vh;
+    height: 50vh;
 }
 
 .idx-center-spacebetween {
@@ -63,4 +109,7 @@ button {
     border: 1px solid rgb(202, 250, 234);
     padding: .7rem 1.2rem;
     border-radius: 3px;
+}
+nav {
+  display: none;
 }
