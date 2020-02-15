@@ -1,0 +1,44 @@
+body {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+div {
+  box-sizing: border-box;
+}
+
+.outside-container {
+  height: 30vh;
+  width: 75vh;
+  border-radius: 15%;
+  border: 2px solid royalblue;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: orange;
+}
+
+.inside-container {
+  height: 100%;
+  width: 40%;
+  border: 2px solid royalblue;
+  font-size: 15vw;
+  background-color: hotpink;
+  color: purple;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+i {
+  font-size: 3rem;
+  margin: 0 40px;
+}
+
+button {
+  background-color: orange;
+  border: none;
+  cursor: pointer;
+}

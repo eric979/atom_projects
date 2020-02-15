@@ -1,0 +1,40 @@
+html, body, div, h1, h3, i, button {
+  padding: 0;
+  margin: 0;
+  border: 0;
+  box-sizing: border-box;
+}
+
+.atf {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+i {
+  font-size: 4rem;
+  margin-bottom: 10px;
+  color: lightgrey;
+
+}
+
+h1 {
+  color: darkgrey;
+  font-size: 4rem;
+}
+
+h3 {
+  color: lightgrey;
+  font-size: 1.8rem;
+  margin-bottom: 15px;
+}
+
+button {
+  font-size: 0.8rem;
+  width: 5rem;
+  height: 2rem;
+  background-color: skyblue;
+  color: white;
+}
