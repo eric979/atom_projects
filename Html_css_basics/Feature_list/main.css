@@ -1,0 +1,84 @@
+html, body, div, i {
+  padding: 0;
+  margin:  0;
+  border: 0;
+  box-sizing: border-box;
+}
+
+.atf {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.box{
+  height: 70%;
+  width: 80%;
+  border: 2px solid lightgrey;
+  border-radius: 5%;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+
+#container1 {
+  border-bottom: 2px solid lightgrey;
+  width: 98%;
+  height: 30%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 1.1rem;
+  color: grey;
+
+}
+
+#logo1 {
+  font-size: 3rem;
+  padding-right: 20px;
+}
+
+#container2 {
+  border-bottom: 2px solid lightgrey;
+  width: 98%;
+  height: 30%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 1.1rem;
+  color: grey;
+}
+
+#extra-container {
+
+  height: 80%;
+  width: 70%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#logo2{
+  font-size: 3rem;
+
+}
+
+#container3{
+
+ width: 98%;
+ height: 30%;
+ display: flex;
+ justify-content:center;
+ align-items: center;
+ font-size: 1.1rem;
+ color: grey;
+}
+
+#logo3 {
+  font-size: 3rem;
+  padding-right: 20px;
+
+}

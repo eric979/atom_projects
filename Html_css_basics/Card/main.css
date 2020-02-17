@@ -1,0 +1,40 @@
+.atf{
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+}
+.big-box{
+ border-top: 2px solid black;
+ border-right: 2px solid black;
+ border-left: 2px solid black;
+ height: 18rem;
+ width: 14rem;
+ display: flex;
+ flex-direction: column;
+ justify-content: center;
+ align-items: center;
+ font-size: 1.1rem;
+ color: silver;
+}
+#logo1{
+ font-size: 12rem;
+ color: silver;
+ padding-top: 10px;
+ padding-bottom: 20px;
+
+}
+.small-box {
+  border: 2px solid black;
+  height: 3rem;
+  width: 14rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 1.3rem;
+  font-weight: 900;
+  color: darkgrey;
+  background-color: #d7d5de;
+}
